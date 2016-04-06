@@ -1,0 +1,7 @@
+.sencha
+.sencha_backup
+.DS_Store
+build
+config
+cordova
+lotterySencha

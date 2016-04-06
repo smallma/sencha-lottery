@@ -1,0 +1,39 @@
+{
+  "applicationName":"sencha-lottery",
+  "applicationId":"rain.lottery",
+  "bundleSeedId":"KPXFEPZ6EF",
+  "versionString":"1.0",
+  "versionCode":"1",
+  "icon": {
+          "57":"resources/icons/Icon.png",
+          "72":"resources/icons/Icon~ipad.png",
+          "114":"resources/icons/Icon@2x.png",
+          "144":"resources/icons/Icon~ipad@2x.png"
+  },
+  "inputPath":"./",
+  "outputPath":"../build/",
+  "configuration":"Debug",
+  "platform":"iOSSimulator",
+  "deviceType":"Universal",
+  "certificateAlias": "iPhone Developer: John Smith",
+  "certificatePath":"config/key/l57ElKiMBG3dGUXn.p12",
+  "certificatePassword":"22822281",
+  "provisionProfile":"config/key/l57ElKiMBG3dGUXn.mobileprovision",
+  "sdkPath":"/path/to/android-sdk",
+  "androidAPILevel":"8",
+  "permissions":[
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "CAMERA",
+    "VIBRATE",
+    "ACCESS_FINE_LOCATION",
+    "ACCESS_COARSE_LOCATION",
+    "CALL_PHONE"
+  ],
+  "orientations": [
+        "portrait",
+    "landscapeLeft",
+    "landscapeRight",
+    "portraitUpsideDown"
+  ]
+}
