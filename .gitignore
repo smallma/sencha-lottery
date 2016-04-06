@@ -5,3 +5,5 @@ build
 config
 cordova
 lotterySencha
+ios
+native
